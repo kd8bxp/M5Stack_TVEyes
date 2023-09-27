@@ -1,0 +1,6 @@
+These eyes were provided by:
+Thank you Emily Velasco https://github.com/emilyvelasco/TVeyeball for providing the idea and png files for this.
+
+Sept 26, 2023 - eyeupperleft2, eyeupperright2, eyelowerleft2, eyelowerright2
+were added by LeRoy Miller, using the eyemaster.psd file and gimp.
+And are not as good as the original eyes provided by Emily Velasco
